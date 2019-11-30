@@ -1,5 +1,5 @@
-: WAP to implement A* algorithm. 
-Program: 
+ //WAP to implement A* algorithm. 
+//Program: 
 #include <list> 
 #include <algorithm> 
 #include <iostream> 
